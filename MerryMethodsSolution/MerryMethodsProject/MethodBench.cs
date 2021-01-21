@@ -61,8 +61,6 @@ namespace MerryMethodsProject
                 lengthyName = false;
 
             return (name, lengthyName);
-
-
         }
     }
 }
